@@ -1,3 +1,1 @@
-ki
-
-last
+MAINLY
