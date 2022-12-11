@@ -1,2 +1,0 @@
-king status
-from anjan
